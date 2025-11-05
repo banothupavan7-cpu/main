@@ -18,7 +18,7 @@ $ git checkout -b main
 
 $ git status
 
-$ 
+$ git login
 
 $ git remote -v
 $ git pull --rebase origin <branch name>
