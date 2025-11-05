@@ -26,3 +26,12 @@ $ git add <resolved-file>
 $ git rebase --continue
 $ git commit -m "your message"
 $ git push origin main
+
+//basic commands
+
+$ git mv oldfilename newfilename //rename file in git
+
+
+$ git rm filename // delete the file in Git
+$ git rm path/to/your file // remove the file
+$ git 
